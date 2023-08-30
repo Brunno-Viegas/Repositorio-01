@@ -1,0 +1,15 @@
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\bin\Debug\net6.0\fArray2.exe
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\bin\Debug\net6.0\fArray2.deps.json
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\bin\Debug\net6.0\fArray2.runtimeconfig.json
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\bin\Debug\net6.0\fArray2.dll
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\bin\Debug\net6.0\fArray2.pdb
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\obj\Debug\net6.0\fArray2.csproj.AssemblyReference.cache
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\obj\Debug\net6.0\fArray2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\obj\Debug\net6.0\fArray2.AssemblyInfoInputs.cache
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\obj\Debug\net6.0\fArray2.AssemblyInfo.cs
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\obj\Debug\net6.0\fArray2.csproj.CoreCompileInputs.cache
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\obj\Debug\net6.0\fArray2.dll
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\obj\Debug\net6.0\refint\fArray2.dll
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\obj\Debug\net6.0\fArray2.pdb
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\obj\Debug\net6.0\fArray2.genruntimeconfig.cache
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\fArray2\fArray2\obj\Debug\net6.0\ref\fArray2.dll

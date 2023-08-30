@@ -1,0 +1,15 @@
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\bin\Debug\net6.0\ArrayNaEmpresa.exe
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\bin\Debug\net6.0\ArrayNaEmpresa.deps.json
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\bin\Debug\net6.0\ArrayNaEmpresa.runtimeconfig.json
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\bin\Debug\net6.0\ArrayNaEmpresa.dll
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\bin\Debug\net6.0\ArrayNaEmpresa.pdb
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\obj\Debug\net6.0\ArrayNaEmpresa.csproj.AssemblyReference.cache
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\obj\Debug\net6.0\ArrayNaEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\obj\Debug\net6.0\ArrayNaEmpresa.AssemblyInfoInputs.cache
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\obj\Debug\net6.0\ArrayNaEmpresa.AssemblyInfo.cs
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\obj\Debug\net6.0\ArrayNaEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\obj\Debug\net6.0\ArrayNaEmpresa.dll
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\obj\Debug\net6.0\refint\ArrayNaEmpresa.dll
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\obj\Debug\net6.0\ArrayNaEmpresa.pdb
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\obj\Debug\net6.0\ArrayNaEmpresa.genruntimeconfig.cache
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ArrayNaEmpresa\ArrayNaEmpresa\obj\Debug\net6.0\ref\ArrayNaEmpresa.dll
