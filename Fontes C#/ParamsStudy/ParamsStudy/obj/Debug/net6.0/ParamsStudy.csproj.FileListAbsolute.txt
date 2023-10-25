@@ -1,0 +1,15 @@
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\bin\Debug\net6.0\ParamsStudy.exe
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\bin\Debug\net6.0\ParamsStudy.deps.json
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\bin\Debug\net6.0\ParamsStudy.runtimeconfig.json
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\bin\Debug\net6.0\ParamsStudy.dll
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\bin\Debug\net6.0\ParamsStudy.pdb
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\obj\Debug\net6.0\ParamsStudy.csproj.AssemblyReference.cache
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\obj\Debug\net6.0\ParamsStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\obj\Debug\net6.0\ParamsStudy.AssemblyInfoInputs.cache
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\obj\Debug\net6.0\ParamsStudy.AssemblyInfo.cs
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\obj\Debug\net6.0\ParamsStudy.csproj.CoreCompileInputs.cache
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\obj\Debug\net6.0\ParamsStudy.dll
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\obj\Debug\net6.0\refint\ParamsStudy.dll
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\obj\Debug\net6.0\ParamsStudy.pdb
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\obj\Debug\net6.0\ParamsStudy.genruntimeconfig.cache
+C:\Users\Brunno.Viegas\source\repos\Brunno-Viegas\Repositorio-01\Fontes C#\ParamsStudy\ParamsStudy\obj\Debug\net6.0\ref\ParamsStudy.dll
